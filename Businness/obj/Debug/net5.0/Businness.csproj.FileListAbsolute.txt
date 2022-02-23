@@ -1,0 +1,17 @@
+C:\Users\ahmet\source\repos\MyProject\Businness\bin\Debug\net5.0\Businness.deps.json
+C:\Users\ahmet\source\repos\MyProject\Businness\bin\Debug\net5.0\Businness.dll
+C:\Users\ahmet\source\repos\MyProject\Businness\bin\Debug\net5.0\Businness.pdb
+C:\Users\ahmet\source\repos\MyProject\Businness\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ahmet\source\repos\MyProject\Businness\bin\Debug\net5.0\Entities.dll
+C:\Users\ahmet\source\repos\MyProject\Businness\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ahmet\source\repos\MyProject\Businness\bin\Debug\net5.0\Entities.pdb
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\Businness.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\Businness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\Businness.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\Businness.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\Businness.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\Businness.csproj.CopyComplete
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\Businness.dll
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\refint\Businness.dll
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\Businness.pdb
+C:\Users\ahmet\source\repos\MyProject\Businness\obj\Debug\net5.0\ref\Businness.dll
