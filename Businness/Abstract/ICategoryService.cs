@@ -9,5 +9,6 @@ namespace Businness.Abstract
 {
     public interface ICategoryService : ICategoryDal
     {
+
     }
 }

@@ -1,6 +1,12 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=37B24802_002DB084_002D4049_002DB943_002D4E2A09102B6D_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Abootstrap_002Fd_003Adist_002Fd_003Ajs_002Ff_003Abootstrap_002Ebundle_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=37B24802_002DB084_002D4049_002DB943_002D4E2A09102B6D_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Abootstrap_002Fd_003Adist_002Fd_003Ajs_002Ff_003Abootstrap_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=37B24802_002DB084_002D4049_002DB943_002D4E2A09102B6D_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Ajquery_002Dvalidation_002Dunobtrusive_002Ff_003Ajquery_002Evalidate_002Eunobtrusive_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=37B24802_002DB084_002D4049_002DB943_002D4E2A09102B6D_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Ajquery_002Dvalidation_002Fd_003Adist_002Ff_003Aadditional_002Dmethods_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=37B24802_002DB084_002D4049_002DB943_002D4E2A09102B6D_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Ajquery_002Dvalidation_002Fd_003Adist_002Ff_003Ajquery_002Evalidate_002Ejs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExcludedFiles/FilesAndFoldersToSkip/=37B24802_002DB084_002D4049_002DB943_002D4E2A09102B6D_002Fd_003Awwwroot_002Fd_003Alib_002Fd_003Ajquery_002Fd_003Adist_002Ff_003Ajquery_002Ejs/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/RunConfigs/Config/=8BE4FDBFCC8AF54DAEA75B1EF6343285/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/RunConfigs/Config/=8BE4FDBFCC8AF54DAEA75B1EF6343285/Type/@EntryValue">project</s:String>
 	<s:String x:Key="/Default/RunConfigs/Config/=8BE4FDBFCC8AF54DAEA75B1EF6343285/Name/@EntryValue">MvcUI</s:String>
 	<s:String x:Key="/Default/RunConfigs/Config/=8BE4FDBFCC8AF54DAEA75B1EF6343285/ProjectGuid/@EntryValue">058D58C48ABBC3479B26D24EC6FB2260</s:String>
-	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">8BE4FDBFCC8AF54DAEA75B1EF6343285</s:String></wpf:ResourceDictionary>
+	</wpf:ResourceDictionary>

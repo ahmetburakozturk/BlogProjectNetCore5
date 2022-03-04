@@ -12,7 +12,7 @@ namespace DataAccess.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=.; Initial Catalog=CoreBlogDb; User id=SA; Password=Passw0rd;");
+            optionsBuilder.UseNpgsql("User ID =postgres;Password=pa$$w0rd!.;Server=localhost;Port=5432;Database=CoreBlogDb;Integrated Security = true; Pooling = true; ");
         }
         public DbSet<About> Abouts { get; set; }
         public DbSet<Blog> Blogs { get; set; }
